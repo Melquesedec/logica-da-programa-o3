@@ -1,0 +1,39 @@
+
+
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.s7glZvfhTZRSNVkYS3NjzAHaEo?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding-right: 400px;
+    padding-left: 400px;
+}
+
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+label {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+#resultado {
+    color: white;
+    font-weight: 900;
+}
+
+#temperatura {
+    width: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900
+}
+
+#borda {
+    background-color: gray;
+    box-shadow: 0px 5px 10px blueviolet;
+    border-radius: 40px;
+}
